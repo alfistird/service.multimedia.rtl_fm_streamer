@@ -4,7 +4,7 @@
        version="0.0.6"
        provider-name="Albrecht Lohofener">
   <requires>
-    <import addon="os.openelec.tv" version="5.0"/>
+    <!-- import addon="os.openelec.tv" version="5.0"/ -->
     <import addon="xbmc.python" version="2.1.0"/>
 
   </requires>
